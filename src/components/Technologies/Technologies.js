@@ -18,24 +18,24 @@ const Technologies = () => (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React.js
+            React.js | Next.js | Gatsby.js
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <DiRor size="3rem" />
         <ListContainer>
-          <ListTitle>Back-End</ListTitle>
+          <ListTitle>Ruby on rails</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Ruby on Rails
+            Ruby on Rails.
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <DiNodejs size="3rem" />
         <ListContainer>
-          <ListTitle>Back-End</ListTitle>
+          <ListTitle>Node JS</ListTitle>
           <ListParagraph>
             Experience with <br />
             Node.js
@@ -45,10 +45,10 @@ const Technologies = () => (
       <ListItem>
         <DiDatabase size="3rem" />
         <ListContainer>
-          <ListTitle>Back-End</ListTitle>
+          <ListTitle>Databases</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Databases
+            PostgreSQL | MongoDB | REDIS | SQLite and others
           </ListParagraph>
         </ListContainer>
       </ListItem>
