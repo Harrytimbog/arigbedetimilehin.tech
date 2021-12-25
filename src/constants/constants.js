@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "wolf-amazon-scraper",
     description:
-      "Using Node.js, Express to build an An API to Access Product details from Amazon e-commerce in JSON format. Search your desired products from amazon and also get product details in JSON format ",
+    "Using Node.js, Express to build an An API to Access Product details from Amazon e-commerce in JSON format. Search your desired products from amazon and also get product details in JSON format ",
     image: "/images/wolf-amazon-data-scraper.png",
     tags: ["Express", "Node"],
     source: "https://github.com/Harrytimbog/wolf-amazon-scraper",
@@ -10,19 +10,18 @@ export const projects = [
     id: 0,
   },
   {
-    title: "wolf-video-meeting",
-    description:
-      "An App for video meetings where the host can create Polls and every one in the meeting can vote.",
-    image: "/images/wolf-video-chat.png",
-    tags: ["React", "WebRTC"],
-    source: "https://github.com/Harrytimbog/wolf-video-meeting",
-    visit: "https://wolf-video-chat.netlify.app",
-    id: 1,
+    title: "my-gatsby-blog",
+    description: "A blog built with Gatsby",
+    image: "/images/GATSBY.png",
+    tags: ["React", "Gatsby"],
+    source: "https://github.com/Harrytimbog/my-gatsby-blog",
+    visit: "https://mygatsbyblogmaster58629.gatsbyjs.io/",
+    id: 6,
   },
   {
     title: "wolf-realtor",
     description:
-      "A Real estate platform to showcase properties for rent and for sale with detailed descriptions",
+    "A Real estate platform to showcase properties for rent and for sale with detailed descriptions",
     image: "/images/wolf-realtor.png",
     tags: ["React", "NextJS"],
     source: "https://github.com/Harrytimbog/wolf-realtor",
@@ -32,7 +31,7 @@ export const projects = [
   {
     title: "wolf_project_manager",
     description:
-      "A Project Management Tool built with PostgresQL, Ruby on Rails. Users can create personal projects, add tasks to each projects then drag and drop tasks according to the level of importance until each project is completed. User can also set status of tasks and completion level of projects are always updated automatically.",
+    "A Project Management Tool built with PostgresQL, Ruby on Rails. Users can create personal projects, add tasks to each projects then drag and drop tasks according to the level of importance until each project is completed. User can also set status of tasks and completion level of projects are always updated automatically.",
     image: "/images/wolf-project-manager.png",
     tags: ["Ruby on rails", "Javascript", "Stimulus Reflex"],
     source: "https://github.com/Harrytimbog/WOLF_PROJECT_MANAGER",
@@ -51,12 +50,22 @@ export const projects = [
   {
     title: "covid-19-tracker",
     description:
-      "A React App to track global and country specific COVID-19 spread and updates",
+    "A React App to track global and country specific COVID-19 spread and updates",
     image: "/images/wolf-covid-tracker.png",
     tags: ["React"],
     source: "https://github.com/Harrytimbog/covid-19-tracker",
     visit: "https://wolf-covid-tracker.netlify.app/",
     id: 5,
+  },
+  {
+    title: "wolf-video-meeting",
+    description:
+      "An App for video meetings where the host can create Polls and every one in the meeting can vote.",
+    image: "/images/wolf-video-chat.png",
+    tags: ["React", "WebRTC"],
+    source: "https://github.com/Harrytimbog/wolf-video-meeting",
+    visit: "https://wolf-video-chat.netlify.app",
+    id: 1,
   },
 ];
 
