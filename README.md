@@ -1,25 +1,25 @@
-## Personal Portfolio
+# Personal Portfolio
 
-A personal portfolio built with NextJS
+My personal portfolio built with NextJS
 
 ## Getting Started
 
 ## Demo    
 
-[Run demo](https://my-portfolio-website-nu.vercel.app/)
+[Run demo](https://arigbedetimilehin-tech.vercel.app/)
 
 ## Run Locally   
 
 Clone the project
 
 ``` console
-git clone git@github.com:Harrytimbog/my-portfolio-website.git
+git clone git@github.com:Harrytimbog/arigbedetimilehin.tech.git
 ```
 
 Go to the project directory
 
 ``` console
-cd my-portfolio-website
+cd arigbedetimilehin.tech
 ```
 
 Install dependencies
@@ -51,6 +51,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 Arigbede Timilehin Emmanuel - @Harrytimbog - harriemannie@gmail.com
 
-Project Link: git@github.com:Harrytimbog/my-portfolio-website.git
+Project Link: git@github.com:Harrytimbog/arigbedetimilehin.tech.git
 
-Demo Link: https://my-portfolio-website-nu.vercel.app/
+Demo Link: https://arigbedetimilehin-tech.vercel.app/
